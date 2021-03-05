@@ -1,6 +1,6 @@
 
 document.getElementById('but').addEventListener("click",
-function kvadrat() {
+function quadratic() {
     let a = document.getElementById("a").value;
     let b = document.getElementById("b").value;
     let c = document.getElementById('c').value;
