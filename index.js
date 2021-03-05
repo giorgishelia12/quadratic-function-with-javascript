@@ -21,8 +21,8 @@ function quadratic() {
         console.log(x1, x2);
         result.innerText = x1 + " " + x2;
     }else if(D < 0){ 
-        console.log("cudia brat araa");
-        result.innerText = "cudia brat araa";
+        console.log("Null");
+        result.innerText = "Null";
     }
 
 });
