@@ -22,7 +22,7 @@ function quadratic() {
         result.innerText = x1 + " " + x2;
     }else if(D < 0){ 
         console.log("Null");
-        result.innerText = "Null";
+        result.innerText = "equals 0";
     }
 
 });
